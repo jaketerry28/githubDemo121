@@ -35,3 +35,9 @@ pico - text reader
 
 ```
 
+# Interesting Facts about me.
+
+- My name is Jake Terry
+- I hope to start understanding how computer scientist think. I am already starting to think about how every day software I use operates behind the scenes.
+- I served 4 years in the Marine Corps.
+
